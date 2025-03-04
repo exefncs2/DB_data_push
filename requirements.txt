@@ -1,0 +1,2 @@
+aiomysql
+python-dotenv
